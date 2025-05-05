@@ -2,3 +2,6 @@
     color: brown;
     background-color:bisque;
 }
+.title:hover{
+    color: blueviolet;
+}
